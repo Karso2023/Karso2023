@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Algorithms Simulator**
 
-- 🌱 I’m currently learning **Go,JS, TS, AI (A Modern Approach) and principles of Cyber security**
+- 🌱 I’m currently learning **Go, JS, TS, AI (A Modern Approach) and principles of Cyber security**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Karso2023?tab=repositories](https://github.com/Karso2023?tab=repositories)
 
