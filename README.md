@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karso2023&label=Profile%20views&color=0e75b6&style=flat" alt="karso2023" /> </p>
 
-- 🔭 I’m currently working on **Algorithms Simulator**
+- 🔭 I’m currently working on **Sudoku Solver in Haskell**
 
 - 🌱 I’m currently learning **Haskell, AI (A Modern Approach) and principles of Cyber security**
 
