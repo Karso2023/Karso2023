@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **karsoo2023@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Karso2023/Resume](https://github.com/Karso2023/Resume)
+- 📄 Know about my experiences [https://github.com/Karso2023/Resume](https://github.com/Karso2023/Resume/blob/main/cybersecurity_cv.pdf)
 
 - ⚡ Fun fact **I love solo travel, which allows me to explore new cultures and meet diverse people, and I actively engage in events across various fields, such as business and startup challenges, to broaden my horizons and foster innovative ideas.**
 
