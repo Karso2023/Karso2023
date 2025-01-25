@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Quizko**
 
-- 🌱 I’m currently learning **Haskell, theory of computation and principles of Cyber security**
+- 🌱 I’m currently learning **Principles of Cyber security and Distributed Systems & Networks**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Karso2023?tab=repositories](https://github.com/Karso2023?tab=repositories)
 
