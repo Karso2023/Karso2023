@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Karso</h1>
-<h3 align="center">A CompSci Nerd 😶‍🌫️ </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karso2023&label=Profile%20views&color=0e75b6&style=flat" alt="karso2023" /> </p>
 
-- 🔭 I’m currently working on **SAST Scan Generator (dissertation), ChefApp (an erlang backend flutter frontend app for fun)**
-
-- 🌱 I’m currently learning **Cloud based security, cloud app development, machine learning technologies**
+- 🔭 I’m currently building random stuff for fun
 
 - 👨‍💻 All of my projects are available at [https://github.com/Karso2023?tab=repositories](https://github.com/Karso2023?tab=repositories)
 
