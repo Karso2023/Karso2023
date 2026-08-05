@@ -2,11 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karso2023&label=Profile%20views&color=0e75b6&style=flat" alt="karso2023" /> </p>
 
-- 🔭 I’m currently building random stuff for fun
-
-- 👨‍💻 All of my projects are available at [https://github.com/Karso2023?tab=repositories](https://github.com/Karso2023?tab=repositories)
-
-- 📫 How to reach me **karsoo2023@gmail.com**
+Currently building a localised AI assistant mainly for personal use, an AI model and a Kotlin-based application for clinics, and a B2C/B2B SaaS platform.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
