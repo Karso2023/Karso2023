@@ -1,8 +1,12 @@
-<h1 align="center">Hi 👋, I'm Karso</h1>
+<h1 align="center">I am Karso</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karso2023&label=Profile%20views&color=0e75b6&style=flat" alt="karso2023" /> </p>
 
-Currently building a localised AI assistant mainly for personal use, an AI model and a Kotlin-based application for clinics, and a B2C/B2B SaaS platform.
+Currently building: 
+
+1, a localised AI assistant mainly for personal use (in progress)
+2, an AI model and a Kotlin-based application for clinics (in progress)
+3, B2C/B2B SaaS AI education platform (internal testing with a secondary school and some potential customers now) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
