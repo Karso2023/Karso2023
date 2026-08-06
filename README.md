@@ -4,9 +4,9 @@
 
 Currently building: 
 
-1, a localised AI assistant mainly for personal use (in progress)
-2, an AI model and a Kotlin-based application for clinics (in progress)
-3, B2C/B2B SaaS AI education platform (internal testing with a secondary school and some potential customers now) 
+1, a localised AI assistant mainly for personal use (in progress) <br>
+2, an AI model and a Kotlin-based application for clinics (in progress) <br>
+3, B2C/B2B SaaS AI education platform (internal testing with a secondary school and some potential customers now) <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
