@@ -5,8 +5,7 @@
 Currently building: 
 
 1, a localised AI assistant mainly for personal use (in progress) <br>
-2, collaborating with dcotors to build an AI model for insurance company (planning, reading papers and checking legal stuff, probably one of my biggest side project) <br>
-3, a Kotlin-based application for clinics (80% done) <br>
+2, a Kotlin-based application for clinics (90% done) <br>
 3, B2C SaaS AI education platform (internal testing now) <br>
 
 <h3 align="left">Connect with me:</h3>
