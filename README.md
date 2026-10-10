@@ -2,11 +2,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karso2023&label=Profile%20views&color=0e75b6&style=flat" alt="karso2023" /> </p>
 
-Currently building: 
+Love building stuff, meeting different people and enjoy solo travelling. 
 
-1, a localised AI assistant mainly for personal use (in progress) <br>
-2, a Kotlin-based application for clinics (90% done) <br>
-3, B2C SaaS AI education platform (internal testing now) <br>
+My role at HSBC currently focuses on cloud security (GCP/AWS), agentic AI, DevSecOps, and building internal tools.
+
+Time really flies. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
