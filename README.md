@@ -1,7 +1,5 @@
 <h1 align="center">I am Karso</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karso2023&label=Profile%20views&color=0e75b6&style=flat" alt="karso2023" /> </p>
-
 Love building stuff, meeting different people and enjoy solo travelling. 
 
 My role at HSBC currently focuses on cloud security (GCP/AWS), agentic AI, DevSecOps, and building internal tools.
